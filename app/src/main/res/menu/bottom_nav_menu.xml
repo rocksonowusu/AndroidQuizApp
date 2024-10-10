@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/navigation_highScores"
+        android:title="@string/high_scores"
+        android:icon="@drawable/ic_leaderboard" />
+    <item
+        android:id="@+id/my_account"
+        android:title="@string/my_account"
+        android:icon="@drawable/baseline_person_24" />
+</menu>

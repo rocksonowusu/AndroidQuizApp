@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="user_image_desc">User Image</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="search">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <!-- Titles for cards -->
+    <string name="title_animals">Animals</string>
+    <string name="title_nature">Nature</string>
+    <string name="title_business">Business</string>
+    <string name="title_trends">Trends</string>
+    <string name="title_space">Space</string>
+    <string name="title_food">Food</string>
+    <string name="title_cars">Cars</string>
+    <string name="title_programming">Programming Languages</string>
+    <string name="title_fashion">Fashion</string>
+    <string name="title_bible">Bible</string>
+    <string name="title_science">Science</string>
+
+    <!-- Descriptions for cards -->
+    <string name="desc_animals">Test your knowledge about animals.</string>
+    <string name="desc_nature">Explore the wonders of nature.</string>
+    <string name="desc_business">Quiz yourself on business knowledge.</string>
+    <string name="desc_trends">Stay updated with the latest trends.</string>
+    <string name="desc_space">Discover the mysteries of space.</string>
+    <string name="desc_food">How well do you know your food?</string>
+    <string name="desc_cars">Are you a car enthusiast?</string>
+    <string name="desc_programming">Test your programming skills.</string>
+    <string name="desc_fashion">Fashion trends and history.</string>
+    <string name="desc_bible">Learn more about the Bible.</string>
+    <string name="desc_science">Expand your science knowledge.</string>
+    <string name="notification">Notification</string>
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="leaderboard">Leaderboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unlock_your_potential">Hello %1$s, Unlock Your Potential!</string>
+    <string name="already_have_an_account">Already have an account...</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="create_an_account">Create an Account!</string>
+    <string name="settings_icon">Settings Icon</string>
+    <string name="location">Location</string>
+    <string name="congratulations_you_scored_1_s">Congratulations! You scored %1$s</string>
+    <string name="you_nailed_it">You nailed it‼, You scored %1$s</string>
+    <string name="sorry_you_scored_below_1_s">Loser! You scored %1$s.</string>
+    <string name="loading">Loading...</string>
+    <string name="high_scores">High Scores</string>
+
+
+</resources>
